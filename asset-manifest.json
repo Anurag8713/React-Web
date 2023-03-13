@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Web/static/css/main.6bb5a77c.css",
+    "main.js": "/React-Web/static/js/main.61dfd6c9.js",
+    "static/media/video.mp4": "/React-Web/static/media/video.42f38c5ecf7a2cd15102.mp4",
+    "index.html": "/React-Web/index.html",
+    "main.6bb5a77c.css.map": "/React-Web/static/css/main.6bb5a77c.css.map",
+    "main.61dfd6c9.js.map": "/React-Web/static/js/main.61dfd6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb5a77c.css",
+    "static/js/main.61dfd6c9.js"
+  ]
+}
